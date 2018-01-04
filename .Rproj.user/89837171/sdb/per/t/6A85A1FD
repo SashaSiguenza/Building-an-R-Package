@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "library(testthat)\nlibrary(myfirstpackage)\n\ntest_check(\"myfirstpackage\")\n",
+    "created" : 1514343954510.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "282828690",
+    "id" : "6A85A1FD",
+    "lastKnownWriteTime" : 1510676766,
+    "last_content_update" : 1510676766,
+    "path" : "C:/Users/SASHA/Downloads/myfirstpackage-master/tests/testthat.R",
+    "project_path" : "tests/testthat.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

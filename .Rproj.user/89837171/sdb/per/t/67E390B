@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"My First Vignette\"\nauthor: \"Brad Boehmke\"\ndate: \"`r Sys.Date()`\"\noutput: rmarkdown::html_vignette\nvignette: >\n  %\\VignetteIndexEntry{Vignette Title}\n  %\\VignetteEngine{knitr::rmarkdown}\n  %\\VignetteEncoding{UTF-8}\n---\n\n```{r setup, include = FALSE}\nknitr::opts_chunk$set(\n  collapse = TRUE,\n  comment = \"#>\"\n)\n```\n\nThis is my personal package that provides the following capabilities:\n\n1. `pv`: Computes present value\n2. `rescale`: Rescales numeric vectors\n3. `psc`: Includes an example data set\n\n## Present value\n\nThe `pv` function computes the present value based on a specified future value, interest rate, and number of time periods. For example, given you have future values ranging from 1000-3000, you can compute the different present values for a 5% interest rate and a 5 year time period with:\n\n```{r}\nlibrary(myfirstpackage)\n\npv(c(1000, 2000, 3000), r = .05, n = 5)\n```\n\n",
+    "created" : 1514343997630.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4003487912",
+    "id" : "67E390B",
+    "lastKnownWriteTime" : 1514344011,
+    "last_content_update" : 1514344011987,
+    "path" : "C:/Users/SASHA/Downloads/myfirstpackage-master/vignettes/myfirstvignette.Rmd",
+    "project_path" : "vignettes/myfirstvignette.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: myfirstpackage\nType: Package\nTitle: Personal R package of Brad Boehmke\nVersion: 0.1.0\nDate: 2017-11-01\nAuthor: person(\"Bradley\", \"Boehmke\", email = \"bradleyboehmke@gmail.com\", role = c(\"aut\", \"cre\"))\nMaintainer: Bradley Boehmke <bradleyboehmke@gmail.com>\nDescription: Personal R package developed for my package building 101 course.  \nLicense: GPL (>= 2)\nEncoding: UTF-8\nLazyData: true\nRoxygenNote: 6.0.1\nDepends: R (>= 2.10)\nImports: stats\nSuggests: testthat,\n    knitr,\n    rmarkdown\nVignetteBuilder: knitr\n\n",
+    "created" : 1514343973741.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2486117227",
+    "id" : "A10EB68D",
+    "lastKnownWriteTime" : 1510676766,
+    "last_content_update" : 1510676766,
+    "path" : "C:/Users/SASHA/Downloads/myfirstpackage-master/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "dcf"
+}

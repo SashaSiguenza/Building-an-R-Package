@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "## Test environments\n* local OS X install, R 3.4.2\n* ubuntu 12.04 (on travis-ci), R 3.4.2\n* win-builder (devel and release)\n* Windows (on apveyor)\n\n## R CMD check results\n\n0 errors | 0 warnings | 0 note\n\n\n## Reverse dependencies\n\nThere are currently no downstream dependencies for this package\n",
+    "created" : 1514343989160.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1357042861",
+    "id" : "4B06D0A7",
+    "lastKnownWriteTime" : 1510676766,
+    "last_content_update" : 1510676766,
+    "path" : "C:/Users/SASHA/Downloads/myfirstpackage-master/cran-comments.md",
+    "project_path" : "cran-comments.md",
+    "properties" : {
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
